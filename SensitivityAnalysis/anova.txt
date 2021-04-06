@@ -1,0 +1,12 @@
+"result" & "parameter" & "prop" \\ 
+"mean_flightdist_inf1" & "me" & 18.05 \\ 
+"mean_flightdist_inf1" & "ma:sw:me" & 7.11 \\ 
+"mean_flightdist_inf1" & "ma:sw:ws:me" & 5.19 \\ 
+"mean_distance_host1" & "me" & 25.97 \\ 
+"mean_distance_host1" & "sw" & 8.62 \\ 
+"mean_distance_host1" & "sw:ws:me" & 6.04 \\ 
+"beetle_percentsucc1" & "me" & 51.75 \\ 
+"beetle_percentsucc1" & "sw" & 26.14 \\ 
+"beetle_percentsucc1" & "ma" & 7.75 \\ 
+"nhost1" & "me" & 72.26 \\ 
+"nhost1" & "sw" & 5.61 \\ 
