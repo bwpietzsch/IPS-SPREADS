@@ -223,8 +223,10 @@ to setup
   ]
 
   if path-to-input = "input/E/" [
+    ; impose a worst case scenario
     set winddirection 270
 
+    ; correct error from rasterisation of shapefiles
     ask spruce with [spruceprop = 0.910000026226044 and inf = 4][set inf 1]
     ask spruce with [spruceprop = 0.680000007152557 and inf = 4][set inf 1]
     ask spruce with [spruceprop = 0.649999976158142 and inf = 4][set inf 1]
