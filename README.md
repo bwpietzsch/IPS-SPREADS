@@ -8,4 +8,4 @@ List of contents of each folder:
 + processed results (file results.csv) and,
 + the corresponding R script used for the data procession and visualization.
 
-In some cases additional files are provided (for example the coordinates of the used research areas).
+In the application directory an additional file is provided which contains the coordinates of the used research areas. In the other directories, the coordinates are included directly within the respective R script.
