@@ -1,5 +1,0 @@
-"path.to.input" & "meanenergy" & "swarming" & "winddirection" & "generations" & "windspeed" & "nhost" & "nshould" & "nright" & "e" \\ 
-"input/A/" & 7,3 & 56 & 148,8 & 2 & 1,2 & 344 & 186 & 141 & 87,94 \\ 
-"input/B/" & 8,8 & 53 & 356,3 & 1 & 4 & 260 & 101 & 99 & 82,32 \\ 
-"input/C/" & 6 & 55 & 129,4 & 2 & 4 & 937 & 697 & 528 & 54,73 \\ 
-"input/D/" & 8,3 & 55 & 71,6 & 1 & 5,2 & 289 & 133 & 104 & 102,88 \\ 
