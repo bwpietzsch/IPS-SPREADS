@@ -9,3 +9,6 @@ List of contents of each folder:
 + the corresponding R script used for the data procession and visualization.
 
 In the application directory an additional file is provided which contains the coordinates of the used research areas. In the other directories, the coordinates are included directly within the respective R script.
+
+# Reasoning for multiple model files
+For each modeling step a separate model file was used, as the simulations were performed on a high performance computation cluster and this enabled a much faster simulation. Furthermore, the differences between the three model are mainly to achieve random values of the parameters of interest.
